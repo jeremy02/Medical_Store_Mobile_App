@@ -73,7 +73,7 @@ Medical Store Mobile App Screens           |
   <img src="screenshots/splash.png" width="200" />
   <img src="screenshots/walkthrough01.png" width="200" />
   <img src="screenshots/login.png" width="200" />
-  <img src="screenshots/login.png" width="200" />
+  <img src="screenshots/verifyotp.png" width="200" />
 </p>
 
 
