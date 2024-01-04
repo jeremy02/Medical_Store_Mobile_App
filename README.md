@@ -6,8 +6,8 @@ The mobile or web app was created to simulate all the system behind the UI kit i
 
 ## Supported Devices and OS
 ### The app runs on the following device and platforms
-* Android - (Native App and Web)
-* iOS and macOS - (Native App and Web)
+* Android - Native
+* iOS and macOS - Native App
 
 ## Supported Modes
 ### The app runs on the following modes
@@ -56,10 +56,20 @@ The mobile or web app was created to simulate all the system behind the UI kit i
     flutter run
     ```
 
+## Full Mockup UI Previews
+Medical Store Mobile App Preview           |
+:-------------------------:
+
+<div style="width: 60%; height: 60%">
+
+![](screenshots/Thumbnail.png)
+
+</div>
+
+
 ## Contributing
 
-If you would like to contribute to the project, please follow the [contribution guidelines](CONTRIBUTING.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+## Notes
+In Progress
