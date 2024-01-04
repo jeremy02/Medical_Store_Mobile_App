@@ -69,8 +69,12 @@ Medical Store Mobile App Preview           |
 Medical Store Mobile App Screens           |
 :-------------------------:
 
-:-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/splash.png)  |  ![](screenshots/walkthrough01.png)  |  ![](screenshots/login.png)
+<p align="center">
+  <img src="screenshots/splash.png" width="200" />
+  <img src="screenshots/walkthrough01.png" width="200" />
+  <img src="screenshots/login.png" width="200" />
+  <img src="screenshots/login.png" width="200" />
+</p>
 
 
 ## Contributing
