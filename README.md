@@ -76,6 +76,10 @@ Medical Store Mobile App Screens           |
   <img src="screenshots/verifyotp.png" width="200" />
 </p>
 
+<br/>
+<p align="center">
+  <img src="screenshots/loginsuccess.png" width="200" />
+</p>
 
 ## Contributing
 
