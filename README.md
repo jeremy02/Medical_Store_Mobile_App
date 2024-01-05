@@ -92,6 +92,13 @@ Medical Store Mobile App Screens           |
   <img src="screenshots/cartEmpty.png" width="200" />
 </p>
 
+<br/>
+<p align="center">
+  <img src="screenshots/notification.png" width="200" />
+  <img src="screenshots/profile.png" width="200" />
+  <img src="screenshots/offline.png" width="200" />
+</p>
+
 ## Contributing
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
