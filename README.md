@@ -97,7 +97,6 @@ Medical Store Mobile App Screens           |
   <img src="screenshots/notification.png" width="200" />
   <img src="screenshots/profile.png" width="200" />
   <img src="screenshots/offline.png" width="200" />
-   <div>$nbsp;</div>
 </p>
 
 ## Contributing
